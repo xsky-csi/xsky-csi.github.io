@@ -7,7 +7,7 @@
 XSKY CSI plugins implement interfaces of CSI. It allows dynamically provisioning XSKY volumes and attaching them to workloads. Current implementation of XSKY CSI plugins was tested in Kubernetes environment (requires Kubernetes 1.11+), but the code does not rely on any Kubernetes specific calls (WIP to make it k8s agnostic) and should be able to run with any CSI enabled CO.
 
 
-## Purple of this atticle
+## Purpose of this article
 
 Provide more details about configuration and deployment of Xsky Block Storage driver
 Introduce usage of Xsky Block Storage driver. see examples below.
